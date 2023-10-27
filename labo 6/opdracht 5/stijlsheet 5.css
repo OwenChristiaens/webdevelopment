@@ -1,3 +1,5 @@
 <style type="text/css">
-                     a.link{symbol:01F52B}
+                     a[href*="Informatie-Icon.png"] {
+                          background:url(Informatie-Icon.png) no-repeat left center;
+                          padding-left:19px;
 </style>
