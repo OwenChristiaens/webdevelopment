@@ -1,0 +1,11 @@
+<style type="text/css">
+                      h1{font-family:"Arial"; font-variant: small-caps; background-color:#FF0000;}
+body{background-color:silver; font-family:"verdana"; font-size:1.1em; color:darkblue;}
+a.hoover{border-top-left-radius:2em;
+    border-top-right-radius:1em;
+    border-bottom-right-radius:2em;
+    border-bottom-left-radius:1em;}
+li{ border: none;
+    border-bottom: 1px dotted;
+}
+</style>

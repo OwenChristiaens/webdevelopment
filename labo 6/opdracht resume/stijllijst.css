@@ -4,5 +4,5 @@
                         header{font-family:"Helvetica"; font-size:30px; color:#8D99AE; background-color:#2B2D42; margin-bottom:10px;}
                         footer{font-family:"Helvetica"; font-size:30px; color:#8D99AE; background-color:#2B2D42; margin-top:10px;}
                         body{font-family:"Helvetica"; font-size:30px; background-color:#8D99AE;}
-                        href{font-family:"Helvetica"; color:#FF0000;}
+                        a:link{font-family:"Helvetica"; color:#FF0000;}
 </style>
